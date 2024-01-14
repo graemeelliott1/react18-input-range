@@ -1,0 +1,10 @@
+*.conf.js
+*.config.js
+*.log
+**/.*
+build
+coverage
+docs
+example
+node_modules
+test
