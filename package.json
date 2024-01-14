@@ -1,12 +1,12 @@
 {
   "name": "graemeelliott-react18-input-range",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "React component for inputting numeric values within a range",
   "keywords": [
     "react",
     "react-component",
     "range-slider",
-    "input-range",
+    "input-range",s
     "range",
     "slider",
     "form",
